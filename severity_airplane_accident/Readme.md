@@ -1,0 +1,1 @@
+Click here for Competition page[https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/]
